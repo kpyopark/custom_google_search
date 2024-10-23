@@ -1,0 +1,5 @@
+streamlit
+google_images_search
+pillow
+requests
+python-dotenv
